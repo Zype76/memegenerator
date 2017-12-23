@@ -3,7 +3,6 @@
 #To pull the correct image for each meme
 
 def gather(meme):
-    print(meme)
     if meme == "cat":
         generator = "1771888"
     elif meme == "brian":
